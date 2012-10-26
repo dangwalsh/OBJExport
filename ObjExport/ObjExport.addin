@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>OBJ Export</Text>
+    <Description>Export Revit Model Geometry to OBJ</Description>
+    <Assembly>ObjExport.dll</Assembly>
+    <FullClassName>ObjExport.Command</FullClassName>
+    <ClientId>2a6cf1d1-2101-4c13-9d54-e5ba8a1d8e94</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
